@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ss-lbl-gen"
+  site-url: "https://azaidi06.github.io/ss-lbl-gen"
+  description: "Image Label Generation"
+  repo-branch: master
+  repo-url: "https://github.com/azaidi06/ss-lbl-gen"
